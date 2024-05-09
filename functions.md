@@ -5,13 +5,12 @@ Function larni 3 xil usulda hosil qilish mumkin
 - Function Expression
 - Arrow Function Expression
 
-** Function Declaration **
+**Function Declaration**
 
-```
+```javascript
 function showMessage() {
     console.log("This is a function")
 }
 
 showMessage()
-
 ```
